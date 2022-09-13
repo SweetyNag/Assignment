@@ -4,6 +4,7 @@ import java.sql.SQLOutput;
 import java.util.*;
 public class Javatutorial {
         public static void main(String[] args) {
+
                  /*System.out.println("Hello World");
        /* int x=10;
         int y=20;
@@ -89,8 +90,8 @@ public class Javatutorial {
         }
         else
         {               System.out.println("5");*/
-        }
-        //take value from user and check it sides of square and rectangule
+
+                //take value from user and check it sides of square and rectangule
         /*Scanner c=new Scanner(System.in);
         System.out.println("Enter both sides ");
         int o = c.nextInt();
@@ -101,11 +102,14 @@ public class Javatutorial {
         else
             System.out.println("it is a rectangle");
 
-        //take the 3 nos from user and print the greatest
+        take the 3 nos from user and print the greatest
 
           Scanner x=new Scanner(System.in);
           System.out.println("enter the nos");
           int a=x.nextInt();
-        */
-        //patern print
+
+          */
         }
+}
+
+

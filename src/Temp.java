@@ -1,11 +1,6 @@
 import java.util.Scanner;
 public class Temp{
     public static void main(String[]args) {
-       /* Scanner c=new Scanner(System.in);
-        System.out.println("Enter the year");
-        int x=c.nextInt();
-        if(x%4==0 && )*/
-
         Scanner c = new Scanner(System.in);
         System.out.println("Enter the nos:");
         int a = c.nextInt();
